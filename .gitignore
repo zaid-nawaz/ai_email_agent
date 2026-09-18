@@ -17,7 +17,29 @@ __pycache__/
 credentials.json
 token.json
 
+node_modules
+.next
+
 venv/
 .env
 __pycache__/
 *.pyc
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Frontend
+node_modules/
+.next/
+
+# IDE
+.vscode/
+.idea/
