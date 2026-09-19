@@ -28,14 +28,19 @@ and their company.
 
 Do not invent facts.
 
-The email should:
-- Be personalized to the recipient.
-- Mention something relevant about their company.
-- Clearly explain why we are reaching out.
-- Sound human and conversational.
+Requirements:
+
+- Address the recipient by name.
+- Personalize the email based on their company and role.
+- Clearly explain the purpose of the outreach.
+- Keep the tone professional but conversational.
 - Avoid generic spam-like language.
-- Be concise.
-- Be under 150 words.
+- Keep the email under 150 words.
+- Do not use excessive marketing language.
+- Do not make claims that are not supported by the input.
+- Do not include a sign-off such as "Best", "Regards", "Thanks", etc.
+- Do not include a sender name, title, company, contact information, or placeholders such as "[Your Name]".
+- End the email naturally after the final sentence.
 
 Return ONLY valid JSON in this format:
 
