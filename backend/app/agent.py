@@ -40,7 +40,9 @@ Requirements:
 - Do not make claims that are not supported by the input.
 - Do not include a sign-off such as "Best", "Regards", "Thanks", etc.
 - Do not include a sender name, title, company, contact information, or placeholders such as "[Your Name]".
-- End the email naturally after the final sentence.
+- End the email naturally after the final sentence. 
+
+
 
 Return ONLY valid JSON in this format:
 
